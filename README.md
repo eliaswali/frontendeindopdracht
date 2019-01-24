@@ -1,2 +1,0 @@
-# frontendeindopdracht
-Frontend eindopdracht code
